@@ -1,5 +1,7 @@
 # Profane
 
+[![Go Reference](https://pkg.go.dev/badge/github.com/alextanhongpin/profane.svg)](https://pkg.go.dev/github.com/alextanhongpin/profane)
+
 Profane checks for profanity and also provides an option to replace them.
 
 ```go
